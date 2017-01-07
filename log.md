@@ -1,30 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 4, 2017 Wednesday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Spent time learning react with Wes and installed odoo on a vm to play around.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I think that I will really like react look farward to learning more.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to tweet:** [My tweet](https://twitter.com/techieJesse/status/817207674697875456)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 5, 2017 Thursday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned about state in react.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Not as complecated as I thought it would be.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to tweet:** [My tweet](https://twitter.com/techieJesse/status/817208096258981889)
 
+### Day 3: January 7, 2017 Saturday
 
-### Day 1: June 27, Monday
+**Today's Progress**: Continued with react for beginners, learned about firebase.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts** I know some html and css, but this javascript and react is really getting me excited!
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to tweet:** [My tweet](https://twitter.com/techieJesse/status/817845403307671553)
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
