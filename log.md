@@ -32,3 +32,10 @@
 
 **Link to tweet:** [My tweet](https://twitter.com/techieJesse/status/818628690133315585)
 
+### Day 5: January 9, 2017 Monday
+
+**Today's Progress**: Grinding react still!
+
+**Thoughts** Good progress today! Also took a look at sass and less, will deffinetly be using preprocessors moving forward.
+
+**Link to tweet:** [My tweet](https://twitter.com/techieJesse/status/818683166961651712)
