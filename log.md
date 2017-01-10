@@ -24,3 +24,11 @@
 
 **Link to tweet:** [My tweet](https://twitter.com/techieJesse/status/817845403307671553)
 
+### Day 4: January 8, 2017 Sunday
+
+**Today's Progress**: More fun wth react!
+
+**Thoughts** Learning lots of new! Will be good to put it to use soon!
+
+**Link to tweet:** [My tweet](https://twitter.com/techieJesse/status/818628690133315585)
+
