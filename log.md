@@ -63,3 +63,12 @@
 **Thoughts** There are always more options.
 
 **Link to tweet:** [My tweet](https://twitter.com/techieJesse/status/819941242331086848)
+
+### Day 9: January 13, 2017 Friday
+
+**Today's Progress**: Started my own little project today.
+
+**Thoughts** Gatsby is pretty useful, will have to play around with it more.
+
+**Link to project:** [lil-fun](https://printingpineapple.github.io/lil-fun/)
+
