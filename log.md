@@ -72,3 +72,10 @@
 
 **Link to project:** [lil-fun](https://printingpineapple.github.io/lil-fun/)
 
+### Day 10: January 14, 2017 Saturday
+
+**Today's Progress**: Deployed a static site to netlify.
+
+**Thoughts** Today felt like a lazy one did not do much to the project but change a picture. Will deffentily be developing this one farther though!
+
+**Link to project:** [pineapple2](http://pineapple2.netlify.com)
